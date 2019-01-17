@@ -32,7 +32,7 @@ The only modification of this fork is, that we claim to be macOS. The code has b
 Diff:
 
 
-        diff --git a/src/boot/efi/boot.c b/src/boot/efi/boot.c
+    diff --git a/src/boot/efi/boot.c b/src/boot/efi/boot.c
 
 		index 5aae7e7c0..a5d4421f3 100644
 	--- a/src/boot/efi/boot.c
